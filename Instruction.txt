@@ -1,0 +1,18 @@
+git add README.md
+git commit -m "first commit"
+git config --global user.name "Ashek Mahmud"
+git commit -m "first commit"
+git branch -M main
+git push -u origin main
+
+
+ git add index.html
+git commit -m "second commit"
+ git branch -M main
+git push -u origin main
+
+
+git add style.css
+git commit -m "third commit"
+ git branch -M main
+git push -u origin main
